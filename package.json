@@ -1,0 +1,24 @@
+{
+  "name": "2022-04-03__github-actions-demo",
+  "version": "1.0.0",
+  "description": "Github Actions 演示仓库",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "pnpm install",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackietchennn/Github-Actions-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackietchennn/Github-Actions-Demo/issues"
+  },
+  "homepage": "https://github.com/jackietchennn/Github-Actions-Demo#readme",
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
+}
